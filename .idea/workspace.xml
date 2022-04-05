@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f08b3923-f33b-4d39-b5f6-cea7d389432e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/edge_detection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/edge_detection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/onli/.android/avd/Nexus_One_API_29.avd]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/scan/ScanPresenter.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/crop/CropActivity.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/processor/PaperProcessor.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/processor/Corners.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pubspec.yaml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/Constants.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/SourceManager.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/lib/edge_detection.dart" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/EdgeDetectionPlugin.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/android/src/main/kotlin/com/sample/edgedetection/base/BaseActivity.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="20ljkmskWJLGe2NakWfeESIRhXP" />
   <component name="ProjectView">
@@ -30,10 +46,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="android.live.literals" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
